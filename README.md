@@ -31,7 +31,11 @@
 </p>
 
 **CI/CD:**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" /> 
+</p>
+
 ---
 
 ### 📈 GitHub Stats
