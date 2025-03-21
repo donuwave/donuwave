@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
-<h3 align="center">aka Donya — frontend developer who occasionally flirts with the backend 😎</h3>
+<h1 align="left">Hey, I'm Daniel 👋</h1>
+<h3 align="left">aka Donya — frontend developer who occasionally flirts with the backend 😎</h3>
 
 ---
 
