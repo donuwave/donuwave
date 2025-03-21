@@ -42,7 +42,3 @@
 ### 📬 Let's Connect
 
 - [Telegram](https://t.me/donusymbol)
-
----
-
-> "Build. Break. Fix. Repeat. And always keep it pretty." ✨
