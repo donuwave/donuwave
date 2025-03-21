@@ -41,14 +41,14 @@
 
 ---
 
+## ⏳ WakaTime Coding Stats
+[![wakatime](https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg)](https://wakatime.com/@0aa69d91-fc73-49e1-84ef-6c6e7cb80104)
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donuwave&show_icons=true&theme=dark)
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donuwave&layout=compact&theme=dark)
-
-## ⏳ WakaTime Coding Stats
-[![wakatime](https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg)](https://wakatime.com/@0aa69d91-fc73-49e1-84ef-6c6e7cb80104)
 
 ---
 
