@@ -44,6 +44,7 @@
 ### 📈 GitHub Stats
 
 [![wakatime](https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg)](https://wakatime.com/@0aa69d91-fc73-49e1-84ef-6c6e7cb80104)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ---
 
