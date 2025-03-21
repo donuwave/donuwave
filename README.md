@@ -4,6 +4,8 @@
 - 💼 **Current workplace:** 🚛💚 ITECO Technology
 - 🗓 **Work experience:** 1 years 6 months
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ---
 
 ### 🧠 About Me
