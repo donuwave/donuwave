@@ -23,6 +23,11 @@ jobs:
       - name: Update README
         run: python update_experience.py
 
+      - name: Check GITHUB_TOKEN
+        run: echo "Token is available"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
