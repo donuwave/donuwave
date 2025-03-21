@@ -1,5 +1,10 @@
 <h1 align="left">Hey, I'm Daniel 👋</h1>
-<h3 align="left">Frontend developer who occasionally flirts with the backend 😎</h3> 💼 Опыт работы: 1 лет 6 месяцев
+<h3 align="left">Frontend developer who occasionally flirts with the backend 😎</h3> 
+
+<p>
+  💼 **Текущее место работы:** ИТЭКО Технолоджи  
+  🗓 Опыт работы: 1 лет 6 месяцев
+</p>
 
 ---
 
