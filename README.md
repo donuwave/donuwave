@@ -3,6 +3,7 @@
 
 - 💼 **Current workplace:** 🚛💚 ITECO Technology
 - 🗓 **Work experience:** 1 years 6 months
+  [![wakatime](https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg)](https://wakatime.com/@0aa69d91-fc73-49e1-84ef-6c6e7cb80104)
 
 ---
 
@@ -43,8 +44,6 @@
 
 ### 📈 GitHub Stats
 
-[![wakatime](https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg)](https://wakatime.com/@0aa69d91-fc73-49e1-84ef-6c6e7cb80104)
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donuwave&layout=compact&theme=dark)
 
 ---
