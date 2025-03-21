@@ -8,7 +8,8 @@
 - 💻 Frontend Developer with a passion for clean UI & modern web tech  
 - ⚛️ React + TypeScript enthusiast  
 - 🎨 Ant Design / styled-components lover  
-- 🐍 Sometimes I moonlight with FastAPI for backend magic  
+- 🐍 Sometimes I moonlight with FastAPI for backend magic
+- 🐳 Comfortable with Docker for development & deployment
 - 🧪 I enjoy building things that are fast, beautiful, and actually work
 
 ---
