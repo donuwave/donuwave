@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Daniel 👋</h1>
 <h3 align="left">Frontend developer who occasionally flirts with the backend 😎</h3> 
 
-- 💼 **Текущее место работы:** <h1 color="red">ITECO Technology</h1>
+- 💼 **Текущее место работы:** <span style="color:green;">ITECO Technology</span>
 - 🗓 **Опыт работы:** 1 лет 6 месяцев
 
 ---
