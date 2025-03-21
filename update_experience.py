@@ -7,7 +7,7 @@ delta = today - start_date
 years = delta.days // 365
 months = (delta.days % 365) // 30
 
-experience_text = f"💼 Опыт работы: {years} лет {months} месяцев"
+experience_text = f"{years} years {months} months"
 
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
