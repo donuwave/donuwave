@@ -16,15 +16,18 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-<p> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white" /> <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" /> </p>
+<p> 
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" /> 
+</p>
 
 **Backend (occasionally):**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-**Other:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> 
+</p>
 
 ---
 
