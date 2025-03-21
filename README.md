@@ -41,9 +41,7 @@
 
 ### 📬 Let's Connect
 
-- [Telegram](https://t.me/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://yourcooldomain.com)
+- [Telegram](https://t.me/donusymbol)
 
 ---
 
