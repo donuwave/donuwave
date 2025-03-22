@@ -28,6 +28,7 @@
 **Frontend:**  
 <p> 
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-Vue-#26C281?logo=vue&logoColor=black" /> 
   <img src="https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" /> 
 </p>
