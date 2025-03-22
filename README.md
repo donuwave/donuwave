@@ -34,6 +34,11 @@
   <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" /> 
 </p>
 
+**Mobile:**
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
+</p>
+
 **Backend (occasionally):**  
 <p>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" /> 
