@@ -21,7 +21,7 @@
 
 **Programming languages:**  
 <p> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7CA18?logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-JavaScript-F7CA18?logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
 </p>
 
