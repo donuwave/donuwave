@@ -19,10 +19,15 @@
 
 ### 🛠️ Tech Stack
 
+**Programming languages:**  
+<p> 
+  <img src="https://img.shields.io/badge/-JavaScript-3178C6?logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
+</p>
+
 **Frontend:**  
 <p> 
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" /> 
 </p>
