@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> 
 </p>
 
-**CI/CD:**
+**DevOps:**
 
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" /> 
