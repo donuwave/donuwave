@@ -23,6 +23,7 @@
 <p> 
   <img src="https://img.shields.io/badge/-JavaScript-F7CA18?logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> 
 </p>
 
 **Frontend:**  
@@ -36,7 +37,7 @@
 **Backend (occasionally):**  
 <p>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> 
+  <<img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white" />
 </p>
 
 **DevOps:**
