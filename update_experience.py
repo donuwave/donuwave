@@ -1,20 +1,44 @@
 from datetime import datetime
 
+# Определяем начальную дату и текущую дату
 start_date = datetime(2023, 8, 28)
 today = datetime.now()
 
-delta = today - start_date
-years = delta.days // 365
-months = (delta.days % 365) // 30
+# Вычисляем разницу между датами в днях
+delta_days = (today - start_date).days
 
-experience_text = f"{years} years {months} months"
+# Грубое вычисление лет и месяцев (без учета високосных лет)
+years = delta_days // 365
+months = (delta_days % 365) // 30
 
-with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
+# Формируем текст стажа
+if years == 0 and months == 0:
+    experience_text = "Less than a month"
+elif years == 0:
+    experience_text = f"{months} months"
+elif months == 0:
+    experience_text = f"{years} years"
+else:
+    experience_text = f"{years} years {months} months"
 
-new_content = content.replace(
-    "{{experience}}", experience_text
-)
+# Читаем и обновляем README.md
+try:
+    with open("README.md", "r", encoding="utf-8") as f:
+        lines = f.readlines()  # Читаем файл построчно
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_content)
+    # Обновляем строку с Work experience
+    updated_lines = []
+    for line in lines:
+        if line.strip().startswith("- 🗓 **Work experience:**"):
+            # Заменяем только значение времени в строке
+            line = f"- 🗓 **Work experience:** {experience_text}\n"
+        updated_lines.append(line)
+
+    # Перезаписываем файл с обновленными данными
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.writelines(updated_lines)
+
+except FileNotFoundError:
+    print("README.md not found!")
+except Exception as e:
+    print(f"An error occurred: {e}")
