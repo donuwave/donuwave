@@ -2,7 +2,7 @@
 <h3 align="left">Frontend developer who occasionally flirts with the backend 😎</h3> 
 
 - 💼 **Current workplace:** 🚛💚 ITECO Technology
-- 🗓 **Work experience:** {{experience}}
+- 🗓 **Work experience:** 1 years 7 months
 
 ---
 
