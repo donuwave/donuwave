@@ -31,6 +31,7 @@
 <p> 
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> 
   <img src="https://img.shields.io/badge/-Vue.js-26C281?logo=vuedotjs&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Angular-b52e31?logo=angular&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-styled--components-DB7093?logo=styled-components&logoColor=white" /> 
 </p>
