@@ -2,7 +2,7 @@
 <h3 align="left">Frontend developer who has experience in the backend 😎</h3> 
 
 - 💼 **Current workplace:** 🚛💚 ITECO Technology
-- 🗓 **Work experience:** 3 years 1 months
+- 🗓 **Work experience:** 3 years 2 months
 
 ---
 
